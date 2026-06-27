@@ -94,6 +94,15 @@ NFHS-5-Health-Analysis/
 - Advanced filtering and comparison features
 
 ---
+## Interactive Dashboard
+
+GitHub does not render Folium maps inside Jupyter notebooks.
+
+To view the interactive dashboard, download and open:
+
+**NFHS_Health_Dashboard.html**
+
+in any modern web browser (Chrome, Edge, Firefox, etc.).
 
 ## 📄 License
 
